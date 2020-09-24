@@ -1,0 +1,114 @@
+ 
+ 
+.row-style
+{
+    display: block;
+}
+.card-btn
+{
+    box-shadow: 5px 10px 18px #646668;
+    height: 28px;
+}
+.off
+{
+    font-size: xx-small;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 30px;
+    color: #a83271;
+}
+.items
+{
+    font-size: unset;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fresho
+{
+    font-size: small;
+}
+.head-block{
+    color: #58595B;
+     
+    font: 300 24px/24px 'Roboto Slab', serif;
+    border-bottom: #cec9c9 solid 1px;
+    color: #000000;
+     
+    }
+    .about-style{
+        border-style: inset;
+    } 
+ 
+.cards-style2{
+    background-color: #a83271 ;
+    border-radius:10px ;
+}
+.dm-txt
+{
+    color: white;
+}
+.img-star-home
+{
+    height: 60px; 
+    border-radius:10px ;
+  width: 150px;
+}
+.season1
+{
+   border: ridge;
+   padding-left: 5px;
+   
+   padding-right: 5px;
+   padding-bottom: 5px;
+   padding-top: 5px;
+   width: fit-content;
+ 
+}
+.image-radious
+{
+    border-radius:10px ;
+
+}
+.arrow-style
+{
+ 
+    padding: 5px 10px; 
+    position: absolute;
+    z-index: 15;
+    background: #fff  no-repeat 50%;
+    background-size: 16px;
+    top: 40%;
+    cursor: pointer;
+    color: #fff;
+    height: 25px;
+    width: 35px;
+  
+ 
+}
+.season1:hover
+{
+    box-shadow: 5px 10px 18px #0b0c0d;
+}
+.slide-style
+{
+   border: ridge;
+   padding-left: 5px;
+   width: 100%;
+   padding-right: 5px;
+   padding-bottom: 5px;
+   padding-top: 5px; 
+}
+.arrow-img
+{
+    border: ridge;
+    height: 25px; 
+    width: 25px;
+}
+.slide1
+{
+    height: fit-content;
+}
+.offerimg
+{ 
+    border: ridge;
+}

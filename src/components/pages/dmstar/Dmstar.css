@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css?family=Proxima+Nova');
+
+.panel{
+    background-image: url('/home/aswathi/dailymart/src/assets/bg1.jpeg');
+    background-size: 100%;
+    width: 100%;
+    height: 400px;
+    
+}
+
+.panel .logo img{
+    align-self: center;
+    margin-top: 120px;
+    float: right;
+    margin-right:200px;
+    border-radius: 8px;
+}
+
+.special-price{
+    padding-left: 130px;
+    padding-top: 100px;
+    color: aliceblue;
+}
+
+.join-now{
+    font-family: 'proxima-nova', sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.rs599{
+    font-size: 27px;
+    font-weight: 500;
+    text-decoration: line-through;
+}
+.rs299{
+    font-size: 40px;
+    font-weight: 500;
+    color: aliceblue;
+}
+
+.month{
+    font-size: 27px;
+    font-weight: 500;
+}
+
+.uk-button-primary{
+    width: 310px;
+    height: 45px;
+    /* margin-left: 20px; */
+}
+
+.cancel{
+    font-size: 15px;
+    font-weight: 500;
+    /* margin-left: 35px; */
+}
+
+.coupon{
+    border:1px solid white;
+    border-radius: 10px 100px / 120px;
+    /* margin-left: 35px; */
+    padding:10px 7px 10px 17px;
+    background-color: indigo;
+    opacity: .8;
+    width: 280px;
+}
+.row{
+    width: 100%;
+    padding-left: 20px;
+    padding-top: 50px;
+}
+.column{
+    padding-left: 140px;
+    text-align: center; 
+    align-content: center;
+}
+.circle-icon {
+    background:#FFC0CB;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    /* text-align: center; */
+    padding: 23px;
+}
+.text1{
+    padding-top: 5px;
+    color:#00308F;
+    font-size: 18px;
+    font-weight: 440;
+}
+.text2{
+    padding-top: 5px;
+    font-size: 13px;
+    color: dimgray;
+}
+
+.image{
+    padding-left: 80px;
+    padding-top: 50px;
+}
+.image img{
+    margin-top: 40px;
+    border: 1px solid #D7D7D7;
+}
+
+.membership{
+    padding-top: 50px;
+    text-align: center;
+}
+ 
+
+

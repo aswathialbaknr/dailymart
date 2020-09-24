@@ -1,0 +1,41 @@
+.pay-img
+{
+    height: 30px; 
+    width: 100px;
+}
+.pay4-img
+{
+    height: 70px; 
+    width: 100px;
+}
+.google
+{
+    height: 40px; 
+    width: 130px;
+}
+.apple
+{
+    height: 40px; 
+    width: 130px;
+}
+ 
+.back-color1
+{
+    background-color: rgb(56, 232, 255);
+    color: cornsilk;
+}
+.back-color2
+{
+    background-color: rgb(43, 43, 236);
+    color: cornsilk;
+}
+.back-color3
+{
+    background-color: rgb(204, 252, 30);
+    color: cornsilk;
+}
+.back-color4
+{
+    background-color: rgb(255, 0, 0);
+    color: cornsilk;
+}

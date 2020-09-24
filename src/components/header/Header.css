@@ -1,0 +1,173 @@
+.search-style
+{
+    width: 500px;
+height: 38px; 
+}
+.daily
+{
+  color: #bf1961;
+  font-size: 20px;
+}
+.mart
+{
+  color: #2320e9;
+  font-size: 35px;
+}
+.label_style:hover
+{
+  color: #bf1961;
+   
+}
+.btn-style
+{
+    border: none;
+}
+ .search-btn
+ {
+    
+   background-color:#bf1961 ;
+   color: white;
+  
+ }
+.cart-btn 
+{
+   width: 100%;
+   background-color:rgb(230, 240, 240);  
+   color: unset;
+}
+.dm-btn
+{
+  color: beige;
+  background-color:#bf1961;
+  height: 38.5px; 
+  width: 150px;
+}
+.drop-btn
+{
+  color: beige;
+  background-color:#bf1961;
+}
+.offer-btn1
+{
+  background-color: white;
+  color: black;
+  height: 30px;
+    
+  font-size: 15px;
+}
+.offer-btn1:hover
+{
+  background-color:#bf1961;
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+}
+.shope-list
+{
+  background-color: #bf1961;
+   
+  color: rgb(255, 255, 255);
+}
+ 
+.img-star
+{
+  height: 38px; 
+  width: 150px;
+}
+
+
+.cntnr1
+{
+  background-color:  #bf1961;
+  height: 70px;
+}
+.input-style
+{
+  background-color: #ffffff;
+}
+.mob-logo
+{
+  height: 18px; 
+  width: 50px;
+}
+.continue-btn
+{
+  background-color: #bf1961;
+  color: #ffffff;
+}
+ .brop-bttn
+ {
+   border: none;
+   
+ }
+ .list-style:hover{
+  font-weight: bold;
+  color:#bf1961;
+ }
+ .cntr-btn
+ {
+  border: groove;
+   
+  border-color: #fdfdfd;
+  height:20%;
+  width: 100%;
+ }
+ .button-style
+ {
+   height: 30px;
+ }
+ .drop-style
+ {
+   background-color: #d6d2d2;
+ }
+
+ .drop-style1
+ {
+   background-color: #ffffff;
+ }
+ .drop-icon-btn{
+  background-color: #bf1961;
+  color: #ffffff;
+ }
+ .header-label
+ {
+       font: 24px ProximaNovaA-Regular;
+    color: #58595b;
+ }
+ .img-sticky{
+  height: 38px; 
+  width: 150px;
+ }
+ .sticky-back-style{
+  box-shadow: 5px 10px 18px #aeafb1;
+  background-color: #ffffff;
+  height: 50px;
+ }
+ .shop-sticky
+ {
+   background-color: #ffffff;
+ }
+.input-style-log
+{
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+  border-bottom: ridge #bf1961;
+}
+  
+.disable-btn-style
+{
+  background-color: #bf1961;
+  color: #ffffff;
+}
+.btn-style-log
+{
+  background-color: #ffffff;
+  border-bottom: solid #bf1961;
+}
+.btn1-style-log
+{
+  background-color: #ffffff;
+  border-bottom:  ridge#bf1961;
+}
+  
